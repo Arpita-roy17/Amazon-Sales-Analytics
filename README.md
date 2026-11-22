@@ -41,7 +41,10 @@ Amazon-Sales-Analytics/
 To demonstrate an end-to-end data engineering workflow, from raw data ingestion and transformation to analytical reporting and visualization.
 
 ## Contributors
-Add the names of all team members here.
+- Arpita Roy
+- Pari Bansal
+- Mishti Jain
+- Simran Babbar
 
 ## Note
 This project is developed for educational and analytical purposes. Dataset ownership and usage permissions should be respected.
